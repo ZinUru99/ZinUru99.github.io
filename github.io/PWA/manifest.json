@@ -16,7 +16,7 @@
         "purpose": "any maskable"
       }
     ],
-    "start_url": "/index.html",
+    "start_url": "/github.io/PWA/index.html",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "white"
